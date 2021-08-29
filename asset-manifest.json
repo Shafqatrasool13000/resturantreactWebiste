@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resturantreactWebiste/static/css/main.b08e65fb.chunk.css",
+    "main.js": "/resturantreactWebiste/static/js/main.16d8cda8.chunk.js",
+    "main.js.map": "/resturantreactWebiste/static/js/main.16d8cda8.chunk.js.map",
+    "runtime-main.js": "/resturantreactWebiste/static/js/runtime-main.e5630255.js",
+    "runtime-main.js.map": "/resturantreactWebiste/static/js/runtime-main.e5630255.js.map",
+    "static/js/2.f2d0c189.chunk.js": "/resturantreactWebiste/static/js/2.f2d0c189.chunk.js",
+    "static/js/2.f2d0c189.chunk.js.map": "/resturantreactWebiste/static/js/2.f2d0c189.chunk.js.map",
+    "static/js/3.24431580.chunk.js": "/resturantreactWebiste/static/js/3.24431580.chunk.js",
+    "static/js/3.24431580.chunk.js.map": "/resturantreactWebiste/static/js/3.24431580.chunk.js.map",
+    "index.html": "/resturantreactWebiste/index.html",
+    "static/css/main.b08e65fb.chunk.css.map": "/resturantreactWebiste/static/css/main.b08e65fb.chunk.css.map",
+    "static/js/2.f2d0c189.chunk.js.LICENSE.txt": "/resturantreactWebiste/static/js/2.f2d0c189.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5630255.js",
+    "static/js/2.f2d0c189.chunk.js",
+    "static/css/main.b08e65fb.chunk.css",
+    "static/js/main.16d8cda8.chunk.js"
+  ]
+}
